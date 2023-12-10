@@ -1,0 +1,9 @@
+Challenges for the development team:
+The competitive market creates on-time delivery pressure.
+They have to take care of production-ready code management and new feature implementation.
+The release cycle is often long and hence the development team has to make assumptions before the application deployment finally takes place. In such a scenario, it takes more time to fix the issues that occurred during deployment in the staging or production environment.
+
+Challenges for the operations team:
+Resource contention: It's difficult to handle increasing resource demands
+Redesigning or tweaking: This is needed to run the application in the production environment
+Diagnosing and rectifying: They are supposed to diagnose and rectify issues after application deployment in isolation
