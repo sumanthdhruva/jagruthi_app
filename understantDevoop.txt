@@ -1,0 +1,28 @@
+Understanding the DevOps movement
+Let's try to understand what DevOps is. Is it a real, technical word? No, because DevOps is not just about technical stuff. It is also neither simply a technology nor an innovation. In simple terms, DevOps is a blend of complex terminologies. It can be considered as a concept, culture, development and operational philosophy, or a movement.
+To understand DevOps, let's revisit the old days of any IT organization. Consider there are multiple environments where an application is deployed. The following sequence of events takes place when any new feature is implemented, or bug fixed:
+
+1. The development team writes code to implement a new feature or fix a bug. This new code is deployed to the development environment and generally tested by the development team.
+2. The new code is deployed to the QA environment, where it is verified by the testing team.
+3. The code is then provided to the operations team for deploying it to the production environment.
+4. The operations team is responsible for managing and maintaining the code.
+
+Let's list the possible issues in this approach:
+The transition of the current application build from the development environment to the production environment takes weeks or months.
+The priorities of the development team, QA team, and IT operations team are different in an organization and effective, and efficient co-ordination becomes a necessity for smooth operations.
+The development team is focused on the latest development release, while the operations team cares about the stability of the production environment.
+The development and operations teams are not aware of each other's work and work culture.
+ 
+
+Both teams work in different types of environments; there is a possibility that the development team has resource constraints and they therefore, use a different kind of configuration. It may work on the localhost or in the dev environment
+
+The operations team works on production resources and there will, therefore, be a huge gap in the configuration and deployment environments. It may not work where it needs to run – in the production environment.
+Assumptions are key in such a scenario, and it is improbable that both teams will work under the same set of assumptions.
+There is manual work involved in setting up the runtime environment and configuration and deployment activities. The biggest issue with the manual application–deployment process is its nonrepeatability and error-prone nature.
+The development team has the executable files, configuration files, database scripts, and deployment documentation. They provide it to the operations team. All these artifacts are verified on the development environment and not in production or staging.
+Each team may take a different approach for setting up the runtime environment and the configuration and deployment activities, considering resource constraints and resource availability.
+In addition, the deployment process needs to be documented for future usage. Now, maintaining the documentation is a time-consuming task that requires collaboration between different stakeholders.
+Both teams work separately and hence there can be a situation where both use different automation techniques.
+Both teams are unaware of the challenges faced by each other and hence may not be able to visualize or understand an ideal scenario in which the application works.
+While the operations team is busy in deployment activities, the development team may get another request for a feature implementation or bug fix; in such a case, if the operations team faces any issues in deployment, they may try to consult the development team, who are already occupied with the new implementation request. This results in communication gaps, and the required collaboration may not happen.
+There is hardly any collaboration between the development team and the operations team. Poor collaboration causes many issues in the application's deployment to different environments, resulting in back-and-forth communication through e-mail, chat, calls, meetings, and so on, and it o
