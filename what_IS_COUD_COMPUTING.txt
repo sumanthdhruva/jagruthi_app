@@ -1,0 +1,32 @@
+Cloud Computing:
+Cloud computing refers to the delivery of computing services over the internet, allowing users to access and use resources such as computing power, storage, and software on a pay-as-you-go basis. These services are hosted by third-party providers in data centers, and users can access them remotely, often through a web browser.
+
+Key Characteristics of Cloud Computing:
+
+On-Demand Self-Service: Users can provision and manage computing resources as needed without requiring human intervention from the service provider.
+
+Broad Network Access: Services are available over the network and can be accessed through various devices like laptops, smartphones, and tablets.
+
+Resource Pooling: Computing resources are pooled together to serve multiple customers. Resources are dynamically assigned and reassigned according to demand.
+
+Rapid Elasticity: Resources can be rapidly and elastically scaled up or down to accommodate changing workloads.
+
+Measured Service: Cloud computing resources are metered, and users are billed based on their usage. This pay-as-you-go model provides cost efficiency.
+
+Service Models in Cloud Computing:
+
+Infrastructure as a Service (IaaS): Provides virtualized computing resources over the internet. Users can rent virtual machines and other infrastructure components.
+
+Platform as a Service (PaaS): Offers a platform that allows customers to develop, run, and manage applications without dealing with the complexities of underlying infrastructure.
+
+Software as a Service (SaaS): Delivers software applications over the internet. Users can access the software without worrying about maintenance or infrastructure.
+
+Deployment Models:
+
+Public Cloud: Services are provided over the internet and are available to anyone who wants to purchase them.
+
+Private Cloud: Cloud infrastructure is used exclusively by a single organization. It can be managed internally or by a third-party provider.
+
+Hybrid Cloud: Combines elements of both public and private clouds, allowing data and applications to be shared between them.
+
+If you have a specific question or if there's something particular you would like to know about cloud computing, feel free to ask!
